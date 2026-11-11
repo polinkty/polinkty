@@ -1,9 +1,9 @@
-<!-- Заголовок с анимацией -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-<!-- Анимированный текст -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&width=435&lines=Frontend+Developer;React+%2F+Vue+Enthusiast;UI%2FUX+Lover;Always+learning+new+things" alt="Typing SVG" />
@@ -21,7 +21,6 @@
 
 <br/>
 
-<!-- Мой стек технологий -->
 ## 🛠️ Мой стек
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,nodejs,express,git,github,vscode,figma&theme=dark" />
