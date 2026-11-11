@@ -4,11 +4,7 @@
 </div>
 
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&width=435&lines=Frontend+Developer;React+%2F+Vue+Enthusiast;UI%2FUX+Lover;Always+learning+new+things" alt="Typing SVG" />
-  </a>
-</div>
+
 
 <br/>
 
@@ -28,20 +24,11 @@
 
 <br/>
 
-<!-- Статистика GitHub -->
 ## 📊 Статистика GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=tokyonight&hide_border=true" />
-</div>
 
-<br/>
 
-<!-- Контакты -->
+
 ## 📫 Как со мной связаться
 <div align="center">
   <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ" target="_blank">
