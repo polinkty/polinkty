@@ -2,13 +2,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
-
+<h1>Веб-разработчик</h1>
 
 
 
 <br/>
 
-<!-- О себе -->
 ## 👨‍💻 Обо мне
 - 🚀 Создаю быстрые, отзывчивые и красивые веб-приложения.
 - 💡 Постоянно изучаю новые технологии и лучшие практики.
