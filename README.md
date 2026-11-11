@@ -16,10 +16,7 @@
 
 <br/>
 
-## 🛠️ Мой стек
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,nodejs,express,git,github,vscode,figma&theme=dark" />
-</div>
+
 
 <br/>
 
